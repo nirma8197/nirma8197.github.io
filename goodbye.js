@@ -6,8 +6,3 @@
 
 	target.byeSpeaker = byeSpeaker;
 })(window);
-
-
-
-
-
